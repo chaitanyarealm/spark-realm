@@ -7,4 +7,7 @@ This spark realm project comprises of various tidbits on spark using scala
 3. [] Load/Write protobuff file in Spark.
 4. [] Usage of Accumulators and Broadcast variables in Spark.
 5. [] Develop spark code in zeppelin notebook.
-6.
+6. [] Spark DataSet Vs DataSource Vs RDD.
+7. [] Spark Streaming Example.
+8. [] Spark Streaming + Kafka Integration.
+9. [] 
